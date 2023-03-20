@@ -3,6 +3,9 @@
 Dataset:
 The data comes from the SEC database on financial adviser firms. This is a detailed questionnaire with a lot of items. An example can be found here: https://files.adviserinfo.sec.gov/IAPD/content/viewform/adv/Sections/iapd_AdvIdentifyingInfoSection.aspx?ORG_PK=250&FLNG_PK=041786D6000801CC02EFF4010434CAD1056C8CC0
 
+Schema File available here: https://www.iard.com/firm-compilation
+File: Compilation Report PD_XML_Guide.pdf
+
 Website information can be found here in the XML:
 FormInfo.Part1A.Item1.WebAddrs
 

@@ -1,13 +1,12 @@
-# RIA_websites
+# RIAs Website Customer Stratification
+
 
 
 Questions:
-- How many RIAs are in the full data set?
-- What RIAs do and don't have a website?
-- Is it mainly independent IARs that dont? 
-- Is there any geographic observations around those that dont?
-- Is there an AUM mark that divides those that have a website and those that dont.
-- Is there an age mark that divides those that have a website and those that dont.
-- How many RIAs just have a linkedin account? 
-- Have many social media accounts do majority of RIAs have? Linkedin, facebook, twitter, other?
-- For those with websites, how many are http vs https --- or is there some way to identify the ages of them?
+
+* Is there a way to stratify the population of Financial Advisers?
+* Which variables are most explanatory?
+* Does it make a difference if we consider those with websites vs. those without?
+* The same: for those with social media vs. without it?
+* Are there any geographic observations?
+* Are ther AUM observations?

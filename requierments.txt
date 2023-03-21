@@ -1,0 +1,8 @@
+ipykernel==6.21.2
+nbformat==5.8.0
+pip-chill==1.0.1
+plotly==5.13.1
+seaborn==0.12.2
+surt==0.3.1
+validators==0.20.0
+xmltodict==0.13.0
